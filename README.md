@@ -9,23 +9,11 @@
 
 - 🔭 I’m currently working on [Falcon Development / Store](https://discord.gg/bTpHJ58MrP)
 
-- 🌱 I’m currently learning **react.js & Frameworks**
-
-- 👯 I’m looking to collaborate on **Nothing :)**
-
-- 🤝 I’m looking for help with **Nothing :)**
-
 - 👨‍💻 All of my projects are available at [https://discord.gg/9rRQfTDcxq](https://discord.gg/9rRQfTDcxq)
-
-- 📝 I regularly write articles on [https://discord.gg/9rRQfTDcxq](https://discord.gg/9rRQfTDcxq)
-
-- 💬 Ask me about **Anything programming**
 
 - 📫 How to reach me **https://discord.gg/9rRQfTDcxq**
 
 - 📄 Know about my experiences [https://discord.gg/9rRQfTDcxq](https://discord.gg/9rRQfTDcxq)
-
-- ⚡ Fun fact **I think I'm funny -_-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
