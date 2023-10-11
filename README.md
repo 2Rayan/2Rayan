@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rayan Tete</h1>
 <h3 align="center">Passionate full stack developer from Palestine occupation territories</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2rayan&label=Profile%20views&color=0e75b6&style=flat" alt="2rayan" /> </p>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/184770973944381441?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/184770973944381441)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2rayan" alt="2rayan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nothingnow_" target="blank"><img src="https://img.shields.io/twitter/follow/nothingnow_?logo=twitter&style=for-the-badge" alt="nothingnow_" /></a> </p>
 
 - 🔭 I’m currently working on [Falcon Development / Store](https://discord.gg/bTpHJ58MrP)
 
