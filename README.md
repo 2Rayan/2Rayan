@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rayan Tete</h1>
 <h3 align="center">Passionate full stack developer from Palestine occupation territories</h3>
 
-<p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/184770973944381441?theme=light&bg=b4aa6e&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="discord"></img>
+<p align="center"><img herf="https://discord.com/users/184770973944381441" src="https://lanyard-profile-readme.vercel.app/api/184770973944381441?theme=light&bg=b4aa6e&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="discord"></img>
 
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2rayan" alt="2rayan" /></a> </p>
+<p align="left"> <a href="https://github.com/2Rayan"><img src="https://github-profile-trophy.vercel.app/?username=2rayan" alt="2rayan" /></a> </p>
 
-- 🔭 I’m currently working on [Falcon Development / Store](https://discord.gg/bTpHJ58MrP)
+- 🔭 I’m currently working on [Falcon Store](https://discord.gg/bTpHJ58MrP)
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/9rRQfTDcxq](https://discord.gg/9rRQfTDcxq)
 
