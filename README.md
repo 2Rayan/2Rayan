@@ -1,15 +1,10 @@
 <h2 align="center">
-Rayan tete
+2Rayan
 </h2>
 
 <h3 align="center">
 Full stack developer 
 </h3> 
-
-### 💫 About Me:
-- 👤 **Full Name:** Rayan rami tete
-- 🏠 **Address:** Bina, Palestine occupation territories
-
 
 ### 📕 Skills:
 - 💻 **Front-end Development**
