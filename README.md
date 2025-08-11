@@ -6,6 +6,12 @@
 Full stack developer 
 </h3> 
 
+<p align="center">
+  <a href="https://discord.com/users/351385441913536512">
+    <img src="https://lanyard.cnrad.dev/api/351385441913536512" alt="Discord Presence" />
+  </a>
+</p>
+
 ### 📕 Skills:
 - 💻 **Front-end Development**
 - 🖥️ **Back-end Development**
