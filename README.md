@@ -1,35 +1,144 @@
-<h2 align="center">
-2Rayan
-</h2>
+<h1 align="center">Hey, I'm Rayan 👋</h1>
 
-<h3 align="center">
-Full stack developer 
-</h3> 
+<h3 align="center">Software Engineer • Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://discord.com/users/351385441913536512">
-    <img src="https://lanyard.cnrad.dev/api/351385441913536512" alt="Discord Presence" />
+  Building full-stack applications, backend services, real-time systems,
+  integrations, and interactive experiences.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayan-tete-321720438/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rayan%20Tete-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/2rayan">
+    <img src="https://img.shields.io/badge/GitHub-2Rayan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-### 📕 Skills:
-- 💻 **Front-end Development**
-- 🖥️ **Back-end Development**
+---
 
-### Languages and Tools:
+## 👨‍💻 About Me
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+I'm a **Software Engineer and Full-Stack Developer** with **7+ years of hands-on programming experience**.
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=2rayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=2rayan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2rayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My strongest experience is around **TypeScript, JavaScript, React, Node.js, Lua, SQL databases, REST APIs, and real-time systems**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+A large part of my experience comes from building complex **event-driven and multiplayer systems**, where I've worked with client/server architecture, persistent data, custom interfaces, integrations, networking, debugging, and performance optimization.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=2rayan&limit=5&theme=chalk&combine_all_yearly_contributions=true)
+I've also led development work and programming teams, handling technical decisions, architecture, implementation, maintenance, and optimization while remaining hands-on with development.
+
+I enjoy solving complex technical problems and turning ideas into reliable, maintainable software.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=2rayan&icon=0&color=5)](https://visitcount.itsvg.in)
+
+## 🧰 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Lua](https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=5A5AFF)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=777BB4)
+![C#](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=sharp&logoColor=99CC00)
+
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css&logoColor=663399)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-20232A?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Styled Components](https://img.shields.io/badge/Styled_Components-20232A?style=for-the-badge&logo=styledcomponents&logoColor=DB7093)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Sass](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Webpack](https://img.shields.io/badge/Webpack-20232A?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+![EJS](https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=B4CA65)
+
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-20232A?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-20232A?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-20232A?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-20232A?style=for-the-badge&logo=discord&logoColor=5865F2)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MariaDB](https://img.shields.io/badge/MariaDB-20232A?style=for-the-badge&logo=mariadb&logoColor=C0765A)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis&logoColor=FF4438)
+![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Bash](https://img.shields.io/badge/Bash-20232A?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-20232A?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837)
+![pnpm](https://img.shields.io/badge/pnpm-20232A?style=for-the-badge&logo=pnpm&logoColor=F69220)
+![Yarn](https://img.shields.io/badge/Yarn-20232A?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
+
+![FiveM](https://img.shields.io/badge/FiveM-20232A?style=for-the-badge&logo=fivem&logoColor=F40552)
+![Discord](https://img.shields.io/badge/Discord-20232A?style=for-the-badge&logo=discord&logoColor=5865F2)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-20232A?style=for-the-badge&logo=ffmpeg&logoColor=007808)
+![Leaflet](https://img.shields.io/badge/Leaflet-20232A?style=for-the-badge&logo=leaflet&logoColor=199900)
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-20232A?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-20232A?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
+
+---
+
+## ⚡ What I Do
+
+I build software across the full stack, working on everything from user-facing interfaces to backend services, databases, APIs, real-time communication, integrations, and server-side systems.
+
+My experience includes:
+
+**Full-Stack Development** · **Backend Architecture** · **REST APIs** · **WebSockets** · **Real-Time Systems** · **Event-Driven Systems** · **Background Workers** · **Database Design** · **Persistent State** · **Authentication & Permissions** · **Third-Party Integrations** · **Responsive UI** · **Multilingual RTL/LTR Interfaces** · **Automation**
+
+I also have extensive experience building multiplayer and game systems with **FiveM**, including client/server architecture, networked events, custom NUI interfaces, persistent gameplay systems, database integrations, and performance-sensitive resources.
+
+I've worked with **ESX, QB-Core, Qbox, ND_Core, OX_Core, vRP**, as well as fully custom architectures.
+
+---
+
+## 🧠 How I Build
+
+I like taking systems from an idea to something that is **reliable, maintainable, and ready for real use**.
+
+I care about writing software that is easy to understand, extend, debug, and operate over time — not just code that works once.
+
+My development approach focuses on:
+
+- Clean and maintainable architecture
+- Performance and efficient resource usage
+- Reliable backend and real-time systems
+- Reusable and configurable components
+- Debugging, profiling, and solving complex problems
+- Long-term maintainability and continuous improvement
+
+---
+
+## 📚 Currently Learning
+
+![Go](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Ruby](https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=CC342D)
+![Rust](https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=white)
+
+I'm currently expanding my knowledge of **Go, Ruby, and Rust**, with particular interest in backend engineering, concurrency, performance, and systems programming.
+
+---
+
+## 💬 Discord
+
+<p align="center">
+  <a href="https://discord.com/users/351385441913536512">
+    <img src="https://lanyard.cnrad.dev/api/351385441913536512?borderRadius=12px" alt="Discord Presence" />
+  </a>
+</p>
